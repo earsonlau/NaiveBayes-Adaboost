@@ -1,0 +1,36 @@
+earson@earsonPC:~/PycharmProjects/2$ python3 fofun.py balance.scale.train balance.scale.test
+Overall accuracy: 0.6825
+[   0.  119.  154.] [ 27.  67.  33.] [  0.  48.  79.] [ 273.  154.  119.]
+The description: accuracy: 0.91 specificity: 0.9100000003 precision: 3.70370356653e-08 recall: 1.0 F1score: 7.40740658436e-08 F5score: 4.62962941529e-08 F2score: 1.85185150892e-07
+The description: accuracy: 0.703608247423 specificity: 0.696832580557 precision: 0.639784948173 recall: 0.712574852021 F1score: 0.457692308898 F5score: 0.6531284322 F2score: 0.696721313251
+The description: accuracy: 0.709090909091 specificity: 0.78289473827 precision: 0.823529412708 recall: 0.660944207464 F1score: 0.471669219885 F5score: 0.784913354817 F2score: 0.68811438924
+Overall accuracy: 0.551111111111
+[  0.  50.  74.] [ 22.  52.  27.] [  0.  33.  68.] [ 124.   74.   50.]
+The description: accuracy: 0.849315068493 specificity: 0.849315069525 precision: 4.54545433884e-08 recall: 1.0 F1score: 9.09090785124e-08 F5score: 5.68181785899e-08 F2score: 2.2727267562e-07
+The description: accuracy: 0.593301435407 specificity: 0.587301590577 precision: 0.490196083429 recall: 0.602409643344 F1score: 0.373134331644 F5score: 0.509164974448 F2score: 0.576036871244
+The description: accuracy: 0.566210045662 specificity: 0.649350653905 precision: 0.732673269974 recall: 0.521126763936 F1score: 0.384415586615 F5score: 0.677655680608 F2score: 0.553064278378
+begin boosting:
+Round: 1
+Overall accuracy: 0.644444444444
+[  0.  85.  60.] [ 22.  17.  41.] [  0.  55.  25.] [ 145.   60.   85.]
+The description: accuracy: 0.868263473054 specificity: 0.868263473843 precision: 4.54545433884e-08 recall: 1.0 F1score: 9.09090785124e-08 F5score: 5.68181785899e-08 F2score: 2.2727267562e-07
+The description: accuracy: 0.668202764977 specificity: 0.779220782088 precision: 0.833333334967 recall: 0.607142859949 F1score: 0.445026179751 F5score: 0.775547447303 F2score: 0.641993960408
+The description: accuracy: 0.687203791469 specificity: 0.674603177186 precision: 0.59405940996 recall: 0.705882356401 F1score: 0.442804430522 F5score: 0.613496936467 F2score: 0.680272112469
+Round: 2
+Overall accuracy: 0.582222222222
+[  0.  97.  34.] [ 22.   5.  67.] [  0.  86.   8.] [ 131.   34.   97.]
+The description: accuracy: 0.856209150327 specificity: 0.856209151267 precision: 4.54545433884e-08 recall: 1.0 F1score: 9.09090785124e-08 F5score: 5.68181785899e-08 F2score: 2.2727267562e-07
+The description: accuracy: 0.59009009009 specificity: 0.871794875082 precision: 0.950980392637 recall: 0.530054647377 F1score: 0.414529916146 F5score: 0.820642979521 F2score: 0.581534774691
+The description: accuracy: 0.635922330097 specificity: 0.591463417125 precision: 0.336633669934 recall: 0.809523814059 F1score: 0.367567572418 F5score: 0.38116592622 F2score: 0.631970267064
+Round: 3
+Overall accuracy: 0.582222222222
+[  0.  97.  34.] [ 22.   5.  67.] [  0.  86.   8.] [ 131.   34.   97.]
+The description: accuracy: 0.856209150327 specificity: 0.856209151267 precision: 4.54545433884e-08 recall: 1.0 F1score: 9.09090785124e-08 F5score: 5.68181785899e-08 F2score: 2.2727267562e-07
+The description: accuracy: 0.59009009009 specificity: 0.871794875082 precision: 0.950980392637 recall: 0.530054647377 F1score: 0.414529916146 F5score: 0.820642979521 F2score: 0.581534774691
+The description: accuracy: 0.635922330097 specificity: 0.591463417125 precision: 0.336633669934 recall: 0.809523814059 F1score: 0.367567572418 F5score: 0.38116592622 F2score: 0.631970267064
+Overall accuracy: 0.582222222222
+[  0.  97.  34.] [ 22.   5.  67.] [  0.  86.   8.] [ 131.   34.   97.]
+The description: accuracy: 0.856209150327 specificity: 0.856209151267 precision: 4.54545433884e-08 recall: 1.0 F1score: 9.09090785124e-08 F5score: 5.68181785899e-08 F2score: 2.2727267562e-07
+The description: accuracy: 0.59009009009 specificity: 0.871794875082 precision: 0.950980392637 recall: 0.530054647377 F1score: 0.414529916146 F5score: 0.820642979521 F2score: 0.581534774691
+The description: accuracy: 0.635922330097 specificity: 0.591463417125 precision: 0.336633669934 recall: 0.809523814059 F1score: 0.367567572418 F5score: 0.38116592622 F2score: 0.631970267064
+

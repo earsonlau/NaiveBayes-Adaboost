@@ -1,0 +1,38 @@
+earson@earsonPC:~/PycharmProjects/2$ python3 fofun.py nursery.train nursery.test 
+Overall accuracy: 0.71061411096
+[ 1511.     0.  1525.  2715.     0.] [ 1159.   198.   983.     0.     2.] [ 1183.     0.  1159.     0.     0.] [ 4240.  5751.  4226.  3036.  5751.]
+The description: accuracy: 0.71061411096 specificity: 0.785330616821 precision: 0.565917603159 recall: 0.56087602095 F1score: 0.375031025177 F5score: 0.564902048914 F2score: 0.561877138345
+The description: accuracy: 0.96671709531 specificity: 0.966717095316 precision: 5.050505025e-09 recall: 1.0 F1score: 1.0101009948e-08 F5score: 6.31313127328e-09 F2score: 2.52525246148e-08
+The description: accuracy: 0.728620296465 specificity: 0.811288155152 precision: 0.608054226632 recall: 0.568181818343 F1score: 0.387252412499 F5score: 0.59963825118 F2score: 0.575732407288
+The description: accuracy: 1.0 specificity: 1.0 precision: 1.0 recall: 1.0 F1score: 0.666666666667 F5score: 1.0 F2score: 1.0
+The description: accuracy: 0.999652355293 specificity: 0.999652355293 precision: 4.9999975e-07 recall: 1.0 F1score: 9.99998500002e-07 F5score: 6.24999609375e-07 F2score: 2.49999375002e-06
+Overall accuracy: 0.708239161701
+[  901.     0.   941.  1605.     0.] [ 695.  130.  595.    0.    0.] [ 725.    0.  695.    0.    0.] [ 2546.  3447.  2506.  1842.  3447.]
+The description: accuracy: 0.708239161701 specificity: 0.785560012408 precision: 0.564536341125 recall: 0.55412054148 F1score: 0.37169967015 F5score: 0.562421972807 F2score: 0.55617283978
+The description: accuracy: 0.963656695555 specificity: 0.963656695565 precision: 7.69230763314e-09 recall: 1.0 F1score: 1.53846150296e-08 F5score: 9.61538452293e-09 F2score: 3.84615369822e-08
+The description: accuracy: 0.727675744142 specificity: 0.808126410897 precision: 0.612630208586 recall: 0.575183374343 F1score: 0.391430948591 F5score: 0.604755784316 F2score: 0.582301980456
+The description: accuracy: 1.0 specificity: 1.0 precision: 1.0 recall: 1.0 F1score: 0.666666666667 F5score: 1.0 F2score: 1.0
+The description: accuracy: 1.0 specificity: 1.0 precision: 1.0 recall: 1.0 F1score: 0.666666666667 F5score: 1.0 F2score: 1.0
+begin boosting:
+Round: 1
+Overall accuracy: 0.708239161701
+[  901.     0.   941.  1605.] [ 695.  130.  595.    0.] [ 725.    0.  695.    0.] [ 2546.  3447.  2506.  1842.]
+The description: accuracy: 0.708239161701 specificity: 0.785560012408 precision: 0.564536341125 recall: 0.55412054148 F1score: 0.37169967015 F5score: 0.562421972807 F2score: 0.55617283978
+The description: accuracy: 0.963656695555 specificity: 0.963656695565 precision: 7.69230763314e-09 recall: 1.0 F1score: 1.53846150296e-08 F5score: 9.61538452293e-09 F2score: 3.84615369822e-08
+The description: accuracy: 0.727675744142 specificity: 0.808126410897 precision: 0.612630208586 recall: 0.575183374343 F1score: 0.391430948591 F5score: 0.604755784316 F2score: 0.582301980456
+The description: accuracy: 1.0 specificity: 1.0 precision: 1.0 recall: 1.0 F1score: 0.666666666667 F5score: 1.0 F2score: 1.0
+Round: 2
+Overall accuracy: 0.657694678447
+[ 1596.     0.     0.  1605.] [    0.   130.  1536.     0.] [ 1666.     0.     0.     0.] [ 1605.  3201.  3201.  1596.]
+The description: accuracy: 0.657694678447 specificity: 1.0 precision: 1.0 recall: 0.489270386423 F1score: 0.393103448377 F5score: 0.827285921715 F2score: 0.544933078549
+The description: accuracy: 0.960972680877 specificity: 0.960972680888 precision: 7.69230763314e-09 recall: 1.0 F1score: 1.53846150296e-08 F5score: 9.61538452293e-09 F2score: 3.84615369822e-08
+The description: accuracy: 0.675744141862 specificity: 0.67574414193 precision: 6.51041666243e-10 recall: 1.0 F1score: 1.30208333079e-09 F5score: 8.13802082671e-10 F2score: 3.25520832274e-09
+The description: accuracy: 1.0 specificity: 1.0 precision: 1.0 recall: 1.0 F1score: 0.666666666667 F5score: 1.0 F2score: 1.0
+Overall accuracy: 0.657694678447
+[ 1596.     0.     0.  1605.     0.] [    0.   130.  1536.     0.     0.] [ 1666.     0.     0.     0.     0.] [ 1605.  3201.  3201.  1596.  3201.]
+The description: accuracy: 0.657694678447 specificity: 1.0 precision: 1.0 recall: 0.489270386423 F1score: 0.393103448377 F5score: 0.827285921715 F2score: 0.544933078549
+The description: accuracy: 0.960972680877 specificity: 0.960972680888 precision: 7.69230763314e-09 recall: 1.0 F1score: 1.53846150296e-08 F5score: 9.61538452293e-09 F2score: 3.84615369822e-08
+The description: accuracy: 0.675744141862 specificity: 0.67574414193 precision: 6.51041666243e-10 recall: 1.0 F1score: 1.30208333079e-09 F5score: 8.13802082671e-10 F2score: 3.25520832274e-09
+The description: accuracy: 1.0 specificity: 1.0 precision: 1.0 recall: 1.0 F1score: 0.666666666667 F5score: 1.0 F2score: 1.0
+The description: accuracy: 1.0 specificity: 1.0 precision: 1.0 recall: 1.0 F1score: 0.666666666667 F5score: 1.0 F2score: 1.0
+
